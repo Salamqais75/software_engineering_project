@@ -192,10 +192,3 @@ The project is to be developed collaboratively by all group members.
      Host: 0.tcp.eu.ngrok.io
      Port: 10160
      ```
-
-
----
-
-## Contact
-**CALL 911**  
-[Link to TikTok](https://vt.tiktok.com/ZS2YPYCPr/)
