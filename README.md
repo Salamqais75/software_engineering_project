@@ -153,10 +153,7 @@ Purchase using MultiTicket:
 
 ![RespondComplain](https://github.com/user-attachments/assets/d90c4597-e9e8-498a-b89b-829d03c809e6)
 
----
 
-## Development Details
-The system is to be developed in Java, with a distributed architecture. The first version will be operational via local network (LAN) and will not include an internet-based user interface. The project will be implemented using a client-server architecture with a relational database backend.
 
 ---
 
@@ -195,14 +192,7 @@ The project is to be developed collaboratively by all group members.
      Host: 0.tcp.eu.ngrok.io
      Port: 10160
      ```
-6. **You're now ready to go!**
----
 
----
-
-## Contributing
-- Fork the repository and create a new branch for your feature or bugfix.
-- Commit your changes and open a pull request for review.
 
 ---
 
